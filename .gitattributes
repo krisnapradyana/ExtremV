@@ -2,3 +2,4 @@ Content/** filter=lfs diff=lfs merge=lfs -text
 Content/TakeRecorded/ filter=lfs diff=lfs merge=lfs -text
 Content/FluidFlux filter=lfs diff=lfs merge=lfs -text
 Content/AutomotiveMaterials filter=lfs diff=lfs merge=lfs -text
+Content/UltraDynamicSky filter=lfs diff=lfs merge=lfs -text
