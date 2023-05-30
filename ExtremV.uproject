@@ -49,10 +49,6 @@
 		{
 			"Name": "ActorPalette",
 			"Enabled": true
-		},
-		{
-			"Name": "ApexDestruction",
-			"Enabled": true
 		}
 	]
 }
